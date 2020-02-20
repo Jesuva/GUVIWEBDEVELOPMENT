@@ -1,1 +1,1 @@
-![](https://github.com/Jesuva/GUVIWEBDEVELOPMENT/new/master/output/s1.png)
+![alt text](https://github.com/Jesuva/GUVIWEBDEVELOPMENT/blob/master/output/s1.png)
