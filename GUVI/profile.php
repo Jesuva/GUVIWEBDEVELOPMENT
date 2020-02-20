@@ -14,7 +14,7 @@
     <title>GUVI</title>
 </head>
     <?php
-        
+        error_reporting(0);        
         $connection = mysqli_connect("localhost", "jesuva", "root123","guviusers");
         $name=$_POST['userName'];
         $password=$_POST['userPassword'];
