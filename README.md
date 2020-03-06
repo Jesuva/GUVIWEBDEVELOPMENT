@@ -6,8 +6,7 @@ Web development: Front End-html,css,bootstrap,svg-Backend- PHP,AJAX,MYSQL,JAVASC
 The signin page is designed with the overlay container,so that the user can either signin or signup in the same page
 
 #profile
-The profile page displays the data of the corresponding user stored in the database, the overlay container concept here used to both display and 
-update the user details in the same page
+The profile page displays the data of the corresponding user stored in the database, the overlay container concept here used to both display and to update the user details in the same page
 
 #Database
 The database cancept used here is to divide the user login details and profile details in the seperate tables,
